@@ -1,6 +1,6 @@
 ### RPy2 Docker
 
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/achillesrasquinha/rpy2.svg)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/achillesrasquinha/rpy2.svg)](https://hub.docker.com/r/achillesrasquinha/rpy2)
 
 > Alpine-based Docker Image for rpy2
 
